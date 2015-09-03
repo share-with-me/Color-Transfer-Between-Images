@@ -1,0 +1,4 @@
+def square(x):
+	return x*x
+t = raw_input()
+print square(t)
